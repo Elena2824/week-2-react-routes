@@ -31,7 +31,7 @@ const Home = () => {
             />
           </div>
           <div>
-            <button type="button" id="toggle-button" onClick={onClick}>
+            <button type="button" id="search-button" onClick={onClick}>
               Кнопка
             </button>
             {/* <Router>
